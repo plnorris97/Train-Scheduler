@@ -1,0 +1,64 @@
+.jumbotron {
+  background-color: black;
+  color: black;
+  text-align: center;
+  background-image: url("../images/d56b7060e3962d95341e535810fc58f2.jpg");
+  background-size: cover;
+  height: 300px;
+  vertical-align: middle;
+  padding: 20px;
+}
+
+.row {
+  padding: 12px;
+}
+
+.btn-primary {
+  padding: 10px;
+  color: white;
+}
+
+.btn-secondary {
+    padding: 15px 20px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 2px 3px #999;
+    margin: 20px;
+}
+
+.btn-secondary:hover {
+    background-color: black;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+btn:hover {
+    background-color: lightgray;
+}
+
+
+#current-trains {
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 10px;
+}
+
+#add-train {
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 10px;
+}
+
+#form {
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 10px;
+}
