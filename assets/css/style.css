@@ -1,3 +1,7 @@
+body {
+  background-color: #e2e5de;
+}
+
 .jumbotron {
   background-color: black;
   color: black;
@@ -19,7 +23,7 @@
 }
 
 .btn-secondary {
-    padding: 15px 20px;
+    padding: 15px 15px;
     font-size: 24px;
     text-align: center;
     cursor: pointer;
